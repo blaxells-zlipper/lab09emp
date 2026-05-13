@@ -23,7 +23,7 @@
 ![Proyecto creado](docs/capturas/cap1.png)
 
 ### 2. Proyecto corriendo en el navegador
-![Proyecto corriendo](docs/cap2.png)
+![Proyecto corriendo](docs/capturas/cap2.png)
 
 ### 3. Reemplazando "Get Started" por nombre propio
 ![Cambio de texto](docs/cap3.png)
