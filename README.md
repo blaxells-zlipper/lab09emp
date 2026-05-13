@@ -6,7 +6,7 @@
 - Mauricio Rojas
 - Xiomara Garcia
 
-## Capturas
+## 📸 Capturas del proceso
 - Mauricio Rojas 
 ![Captura 1](docs/capturas/captura-1.png)
 ![Captura 3](docs/capturas/captura-3.png)
@@ -16,13 +16,7 @@
 ![Captura 5](docs/capturas/c5.png)
 ![Captura 6](docs/capturas/c6.png)
 ![Captura 3](docs/capturas/c3.png)
-
-
-## 📸 Capturas del proceso
-## 👨‍💻 Autor
-
-**Garcia Silva Xiomara**
-
+- Garcia Silva Xiomara
 ### 1. Proyecto creado
 ![Proyecto creado](docs/capturas/Cap1.png)
 
@@ -37,5 +31,3 @@
 
 ### 5. Componente Profile — primeros pasos con componentes React
 ![Componente Profile](docs/capturas/cap5.png)
-
----
