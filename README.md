@@ -8,13 +8,13 @@
 
 ## Capturas
 
-1. ![Captura 1](docs/capturas/captura-1.png)
+![Captura 1](docs/capturas/captura-1.png)
+![Captura 3](docs/capturas/captura-3.png)
+![Captura 4](docs/capturas/captura-4.png)
+- Bellido Rony
 2. ![Captura 2](docs/capturas/captura-2.png)
-3. ![Captura 3](docs/capturas/captura-3.png)
-4. ![Captura 4](docs/capturas/captura-4.png)
-- Bellido Rony 
-6. ![Captura 5](docs/capturas/c5.png)
-7. ![Captura 6](docs/capturas/c6.png)
+![Captura 5](docs/capturas/c5.png)
+![Captura 6](docs/capturas/c6.png)
 
 
 
