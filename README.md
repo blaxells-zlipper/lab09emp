@@ -20,19 +20,19 @@
 ## 📸 Capturas del proceso
 
 ### 1. Proyecto creado
-![Proyecto creado](docs/capturas/cap1.png)
+![Proyecto creado](docs/capturas/Cap1.png)
 
 ### 2. Proyecto corriendo en el navegador
 ![Proyecto corriendo](docs/capturas/cap2.png)
 
 ### 3. Reemplazando "Get Started" por nombre propio
-![Cambio de texto](docs/cap3.png)
+![Cambio de texto](docs/capturas/cap3.png)
 
 ### 4. Nombre y apellido en pantalla
-![Nombre en pantalla](docs/cap4.png)
+![Nombre en pantalla](docs/capturas/cap4.png)
 
 ### 5. Componente Profile — primeros pasos con componentes React
-![Componente Profile](docs/cap5.png)
+![Componente Profile](docs/capturas/cap5.png)
 
 ---
 
