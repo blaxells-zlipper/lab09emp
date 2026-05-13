@@ -20,7 +20,7 @@
 ## 📸 Capturas del proceso
 
 ### 1. Proyecto creado
-![Proyecto creado](docs/cap1.png)
+![Proyecto creado](docs/capturas/cap1.png)
 
 ### 2. Proyecto corriendo en el navegador
 ![Proyecto corriendo](docs/cap2.png)
