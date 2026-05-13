@@ -14,3 +14,28 @@
 4. ![Captura 4](docs/capturas/captura-4.png)
 5. ![Captura 5](docs/capturas/captura-5.png)
 6. ![Captura 6](docs/capturas/captura-6.png)
+
+
+
+## 📸 Capturas del proceso
+
+### 1. Proyecto creado
+![Proyecto creado](docs/cap1.png)
+
+### 2. Proyecto corriendo en el navegador
+![Proyecto corriendo](docs/cap2.png)
+
+### 3. Reemplazando "Get Started" por nombre propio
+![Cambio de texto](docs/cap3.png)
+
+### 4. Nombre y apellido en pantalla
+![Nombre en pantalla](docs/cap4.png)
+
+### 5. Componente Profile — primeros pasos con componentes React
+![Componente Profile](docs/cap5.png)
+
+---
+
+## 👨‍💻 Autor
+
+**Garcia Silva Xiomara**
