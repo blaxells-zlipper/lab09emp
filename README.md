@@ -7,18 +7,21 @@
 - Xiomara Garcia
 
 ## Capturas
-
+- Mauricio Rojas 
 ![Captura 1](docs/capturas/captura-1.png)
 ![Captura 3](docs/capturas/captura-3.png)
 ![Captura 4](docs/capturas/captura-4.png)
 - Bellido Rony
-2. ![Captura 2](docs/capturas/captura-2.png)
+![Captura 2](docs/capturas/captura-2.png)
 ![Captura 5](docs/capturas/c5.png)
 ![Captura 6](docs/capturas/c6.png)
-
+![Captura 3](docs/capturas/c3.png)
 
 
 ## 📸 Capturas del proceso
+## 👨‍💻 Autor
+
+**Garcia Silva Xiomara**
 
 ### 1. Proyecto creado
 ![Proyecto creado](docs/capturas/Cap1.png)
@@ -36,7 +39,3 @@
 ![Componente Profile](docs/capturas/cap5.png)
 
 ---
-
-## 👨‍💻 Autor
-
-**Garcia Silva Xiomara**
