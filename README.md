@@ -1,9 +1,10 @@
-# CineSpoilers
+# Laboratorio 9
 
 ## Integrantes
 
 - Rony Bellido
 - Mauricio Rojas
+- Xiomara Garcia
 
 ## Capturas
 
